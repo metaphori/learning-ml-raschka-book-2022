@@ -38,4 +38,6 @@ doc/_build
 .idea
 
 # Other
-.python-version*.ipynb
+.python-version
+
+*.ipynb
